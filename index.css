@@ -1,0 +1,21 @@
+#simulation-frame{
+    border:2px solid black;
+    height:500px;
+    width: 756px;
+    position: relative;
+}
+.rectangle{
+    border: 1px solid gray;
+    height: 2.5em;
+    width: 1.5em;
+    margin-left: .5%;
+}
+.top{
+    margin-top: 10px;
+}
+.bottom{
+    margin-top: 400px;
+}
+li{
+    padding: 5px;
+}
